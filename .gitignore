@@ -1,3 +1,5 @@
+.idea
+ydnote_checkin_my.cfg
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
